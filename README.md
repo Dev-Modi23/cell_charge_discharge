@@ -12,6 +12,6 @@ A Streamlit application for simulating, monitoring, and analyzing multiple batte
 - Control panel to adjust current per cell and simulate charging/discharging behavior.
 - Graphical analysis with dynamic capacity bar charts and voltage profiles.
 - Export battery cell data as CSV for offline analysis.
-- Auto-refresh functionality for real-time updates.
+- Refresh functionality for real-time updates.
 
 ---
